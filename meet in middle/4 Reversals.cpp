@@ -2,7 +2,7 @@
 
 /*
 
-Description
+Description:
 
 We are given two equal-length strings S and T. Figure out if we can get string T starting from string S and applying 4 substring reversal operations.
 
@@ -87,7 +87,7 @@ string reverse1(string s , int l ,int r){
 }
 
 
-// generates all posible strings from substring reversal with k moves left
+// generates all posible strings from substring reversal with k moves left 
 void brute(string st , int k){
 
     if(k==0){ 
