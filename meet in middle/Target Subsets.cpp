@@ -2,7 +2,7 @@
 
 /*
 
-Description
+Description:
 
 You have given an array of length N, and a number X. Find the number of subsets with the sum of elements less than equal to X.
 
