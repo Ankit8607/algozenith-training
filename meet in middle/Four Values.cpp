@@ -2,7 +2,7 @@
 
 /*
 
-Description
+Description:
 
 You are given an array of n integers, and your task is to find four values (at distinct positions) whose sum is x.
 
